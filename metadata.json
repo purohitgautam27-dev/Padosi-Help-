@@ -1,0 +1,7 @@
+{
+  "name": "Padosi Help",
+  "description": "A hyper-local community app for neighbors to help each other with tools, medicines, and emergencies within a 1-2km radius.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
